@@ -1,2 +1,2 @@
 # PCA_Project
-In this project , we are going to explains the different steps to implement PCA from scratch
+Implementing Principal Component Analysis (PCA) from scratch is a valuable exercise to understand the underlying mathematics and concepts. PCA is a dimensionality reduction technique used in data analysis and machine learning to reduce the number of features while preserving the most important information. In this project , we are going to explains the different steps to implement PCA from scratch
